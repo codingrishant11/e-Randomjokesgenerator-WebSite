@@ -1,0 +1,29 @@
+.container{
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    width: 70%;
+    height: 500px;
+    background: linear-gradient(to left ,red,rgb(202, 248, 17));
+    border-radius: 100px; 
+    margin :auto;
+    margin-top: 7rem;
+    word-spacing: 10px;
+}
+h1{
+    font-size: 20px;
+    color: rgb(18, 16, 15);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.a{
+    margin-top: 1em;
+    border-radius: 100px;
+    width: 100px;
+    height: 50px;
+    
+}
+.a:hover{
+    width:150px;
+    
+}
